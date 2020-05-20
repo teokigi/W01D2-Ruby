@@ -1,2 +1,2 @@
-# W01D2-Ruby
+# Ruby Language
 testing out function use in ruby language
