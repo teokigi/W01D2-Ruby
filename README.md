@@ -1,2 +1,3 @@
 # Ruby Language
-testing out function use in ruby language
+Function use in ruby language
+Unit Testing in Ruby
